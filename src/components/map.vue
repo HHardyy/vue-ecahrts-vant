@@ -21,7 +21,6 @@ export default {
         animationDurationUpdate: 1000,
         animationEasingUpdate: "cubicInOut",
         title: {
-          //   text: "广东代理分布",
           left: "center",
           textStyle: {
             color: "#fff"
